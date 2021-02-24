@@ -1,16 +1,13 @@
-### Hi there 👋
+# Maxmille Nunes
 
-<!--
-**Maxmiller-Nunes/Maxmiller-Nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou apaixonado pelo que faço, que no caso é programar, resolver problemas e ver pessoas usando as soluções que desenvolvi. Sou um desenvolvedor backend trabalhando atualmente com Node.JS, porém sei um pouco sobre ReactJS.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Estou trabalhando na **Brisanet Telecomunicações**
+ <br/> :purple_heart: &nbsp; Busco sempre colaborar na parte de back-end das aplicações que o time desenvole.
+ <br/> :blush: &nbsp; Usando os princípios do SOLID com Node.Js e Express.
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Call of Duty e animes.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MaxmillerNunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxmiller-nunes-393871191/)](https://www.linkedin.com/in/maxmiller-nunes-393871191/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-maxmillernunes11-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maxmillernunes11@gmail.com)](mailto:maxmillernunes11@gmail.com)
