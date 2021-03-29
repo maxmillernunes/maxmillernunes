@@ -1,4 +1,4 @@
-# Maxmille Nunes
+# Maxmiller Nunes
 
 ## Olá pessoal 👋
 Sou apaixonado pelo que faço, que no caso é programar, resolver problemas e ver pessoas usando as soluções que desenvolvi. Sou um desenvolvedor backend trabalhando atualmente com Node.JS, porém sei um pouco sobre ReactJS.
