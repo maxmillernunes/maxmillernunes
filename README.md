@@ -4,7 +4,7 @@
 Sou apaixonado pelo que faço, que no caso é programar, resolver problemas e ver pessoas usando as soluções que desenvolvi. Sou um desenvolvedor backend trabalhando atualmente com Node.JS, porém sei um pouco sobre ReactJS.
 
  :rocket:  &nbsp; Estou trabalhando na **Brisanet Telecomunicações**
- <br/> :purple_heart: &nbsp; Busco sempre colaborar na parte de back-end das aplicações que o time desenvole.
+ <br/> :purple_heart: &nbsp; Busco sempre colaborar na parte de back-end das aplicações que o time desenvolve.
  <br/> :blush: &nbsp; Usando os princípios do SOLID com Node.Js e Express.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, Call of Duty e animes.
